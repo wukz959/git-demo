@@ -7,3 +7,4 @@ hello Git world!!! hot-fix test
 222222222 by lhc
 333333333 change
 444444444 lalala
+你好啊!!!
